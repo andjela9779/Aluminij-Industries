@@ -1,0 +1,134 @@
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+      font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 190px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+    
+  }
+
+  @media screen and (min-width: 580px  ) and (max-width: 589px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+        font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 120px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+  }
+
+
+  @media screen and (min-width: 589px  ) and (max-width: 599px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+        font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 120px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+  }
+
+  @media screen and (min-width: 600px  ) and (max-width: 615px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+        font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 115px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+  }
+
+  @media screen and (min-width: 616px  ) and (max-width: 630px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+        font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 100px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+  }
+
+  @media screen and (min-width: 631px  ) and (max-width: 650px) {
+    .sadrzaj h1 {
+        margin-top: 50%;
+        font-size: 3rem;
+    }
+  
+    .sadrzaj p {
+      font-size: 1.2rem;
+    }
+
+    .pozadina {
+    position: relative;
+    margin-top: 95px;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+
+    }
+    
+  }
